@@ -104,7 +104,7 @@ body, html {
 }
 
 .head-main {
-    background-image: url(asset/headmain.jpg);
+    background-image: url(headmain.jpg);
     background-size: cover;
     text-align: center;
     opacity:0.8;
@@ -189,7 +189,7 @@ body, html {
 /* img strip */
 
 .parallax {
-    background-image: url(asset/strip.jpg);
+    background-image: url(strip.jpg);
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
