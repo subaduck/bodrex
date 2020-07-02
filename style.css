@@ -189,7 +189,7 @@ body, html {
 /* img strip */
 
 .parallax {
-    background-image: url(strip.jpg);
+    background-image: url(https://github.com/dewa27/bodrex/blob/master/strip.jpg?raw=true);
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
